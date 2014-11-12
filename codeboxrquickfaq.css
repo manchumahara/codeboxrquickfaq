@@ -1,0 +1,32 @@
+h3.cbquickfaqheader {
+    margin: 0px !important;
+    cursor:pointer;
+    cursor:hand;
+    padding: 0px;
+    padding-left: 30px;
+    background-image: url('codeboxrquickfaq_images/codeboxrquickfaq_plus.png');
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    line-height: 1em;
+    font-size:17px;
+
+}
+div.cbquickfaqcontent {
+    padding-left: 30px;
+
+
+}
+div.cbquickfaqwrap {
+    padding-bottom: 60px;
+
+}
+h3.active {
+    background-image: url('codeboxrquickfaq_images/codeboxrquickfaq_minus.png') !important;
+    background-position: 10px center;
+    background-repeat: no-repeat;
+}
+.codeboxrquickfaqcredit{
+    font-size: x-small;
+    float: right;
+    margin-right: 15px;
+}
